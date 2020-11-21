@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Panda Crypt</string>
+    <string name="enter_text_here">Enter Text Here...</string>
+    <string name="app_title">Panda\'s Cryptutils</string>
+    <string name="run_selected_func">Convert</string>
+    <string-array name="action_array">
+        <item>Base64 Encode</item>
+        <item>Base64 Decode</item>
+        <item>MD5 Hash</item>
+        <item>SHA-256</item>
+        <item>Whirlpool</item>
+    </string-array>
+</resources>
